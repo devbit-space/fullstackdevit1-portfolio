@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+.section-container {
+  overflow: scroll;
+  overflow-x: hidden;
+  scroll-snap-type: y mandatory;
+}
+
+.section-container::-webkit-scrollbar {
+  width: 10px;
+}
+
+.section-container::-webkit-scrollbar-track {
+  background: #f1f1f113; 
+}
+ 
+.section-container::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+.section-container::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
