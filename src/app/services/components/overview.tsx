@@ -2,19 +2,19 @@ import { HoverEffect } from "@/Aceternity/card-hover-effect";
 
 export function ServicesOverview() {
   return (
-    <div className="max-w-7xl mx-auto px-8">
+    <div className="flex justify-center max-w-7xl mx-auto px-8">
       <HoverEffect items={projects} />
     </div>
   );
 }
 export const projects = [
-  {
-    title: "Blockchain Development",
-    description:
-      "Smart contracts, decentralized apps (dApps), and blockchain integration.",
-    link: "https://stripe.com",
-    image: "/assets/images/services/blockchain.png",
-  },
+  // {
+  //   title: "Blockchain Development",
+  //   description:
+  //     "Smart contracts, decentralized apps (dApps), and blockchain integration.",
+  //   link: "https://stripe.com",
+  //   image: "/assets/images/services/blockchain.png",
+  // },
   {
     title: "Full-Stack Development",
     description:

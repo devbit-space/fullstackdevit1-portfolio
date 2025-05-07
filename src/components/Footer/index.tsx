@@ -8,7 +8,7 @@ const Footer = () => {
     <footer className="bg-black text-white pt-5 pb-10 border-t border-gray-700">
       <div className="w-full mx-auto max-w-screen-xl p-4 flex flex-col md:flex-row md:items-center md:justify-between">
         <div className="text-sm text-gray-500 text-center mb-4 md:mb-0 max-sm:w-full">
-          © 2025{" "} copyright by <span className="font-bold">wizard</span>
+          © 2025{" "} copyright by <span className="font-bold">Top Dev</span>
         </div>
         <nav className="flex flex-wrap gap-4 items-center justify-center text-sm font-medium text-gray-500">
           <Link
@@ -78,7 +78,8 @@ const Footer = () => {
           <FaGithub size={24} />
         </Link>
         <Link
-          href="https://t.me/@digitalwizard0"
+          // href="https://t.me/@digitalwizard0"
+          href=""
           className="text-gray-500 hover:text-white"
         >
           <FaTelegram size={24} />

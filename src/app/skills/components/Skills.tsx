@@ -48,6 +48,7 @@ import {
   SiWeb3Dotjs,
   SiPolkadot,
   SiNextdotjs,
+  SiExpo
 } from "react-icons/si";
 import { PiFileCSharp } from "react-icons/pi";
 import { GiArtificialIntelligence, GiVendingMachine } from "react-icons/gi";
@@ -140,6 +141,7 @@ const skillIcons: Record<SkillName, JSX.Element> = {
   web3js: <SiWeb3Dotjs className="w-12 h-12 mr-4" color="#F16822" />,
   ipfs: <Image src="/assets/icon/ipfs.png" alt="IPFS" width={48} height={48} />,
   polkadot: <SiPolkadot className="w-12 h-12 mr-4" color="#E6007A" />,
+  expo: <SiExpo className="w-12 h-12 mr-4" />
 };
 
 const Skills = () => {

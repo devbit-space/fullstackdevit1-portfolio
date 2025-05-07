@@ -1,9 +1,9 @@
 export const projectItems = [
-  {
-    title: "Blockchain",
-    link: "blockchain",
-    src: "/assets/images/projects/blockchain.png",
-  },
+  // {
+  //   title: "Blockchain",
+  //   link: "blockchain",
+  //   src: "/assets/images/projects/blockchain.png",
+  // },
   {
     title: "Web Development",
     link: "web-development",

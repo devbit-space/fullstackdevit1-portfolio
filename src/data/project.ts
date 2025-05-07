@@ -578,4 +578,5 @@ const scraping = [
 ];
 
 
-export { web, mobile, software, bot, blockchain, ai, scraping };
+// export { web, mobile, software, bot, blockchain, ai, scraping };
+export { web, mobile, software, bot, ai, scraping };

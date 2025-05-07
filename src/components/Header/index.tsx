@@ -132,7 +132,7 @@ const Header = () => {
               </span>
             </Link>
             {isProjectsOpen && (
-              <div className="absolute top-[90%] left-0 text-white mt-2 w-48 bg-[#161d2b8c] shadow-lg rounded-md text-sm border border-[#3c45588c]">
+              <div className="absolute top-[90%] left-0 text-white mt-1 w-48 bg-[#161d2b8c] shadow-lg rounded-md text-sm border border-[#3c45588c]">
                 {
                   projectItems.map((item, index   ) => (
                     <Link
@@ -174,7 +174,7 @@ const Header = () => {
               </span>
             </span>
           </Link>
-          <Link
+          {/* <Link
             href="/contact"
             className="flex items-center relative cursor-pointer text-center overflow-hidden text-white group"
           >
@@ -187,7 +187,7 @@ const Header = () => {
                 Contact
               </span>
             </span>
-          </Link>
+          </Link> */}
         </nav>
       </div>
     </header>

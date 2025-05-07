@@ -11,7 +11,7 @@ const BotDevelopment = () => {
           Building Intelligent and Interactive Bots
         </h2>
         <div className="max-w-xl mx-auto text-md md:text-xl text-neutral-400 text-center px-4">
-          Explore my bot projects that deliver seamless automation, engagement, and efficiency.
+          Explore my Bot projects that deliver seamless automation, engagement, and efficiency.
         </div>
         <ShootingStars />
         <StarsBackground />
