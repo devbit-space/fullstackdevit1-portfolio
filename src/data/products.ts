@@ -57,18 +57,18 @@ export const products = [
     link: "https://sphynxmarketplace.co/",
     thumbnail: "/home/sphynxmarketplace.png",
   },
-  {
-    title: "Golden Bells Academy",
-    link: "https://goldenbellsacademy.com",
-    thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/goldenbellsacademy.png",
-  },
-  {
-    title: "Invoker Labs",
-    link: "https://invoker.lol",
-    thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/invoker.png",
-  },
+  // {
+  //   title: "Golden Bells Academy",
+  //   link: "https://goldenbellsacademy.com",
+  //   thumbnail:
+  //     "https://aceternity.com/images/products/thumbnails/new/goldenbellsacademy.png",
+  // },
+  // {
+  //   title: "Invoker Labs",
+  //   link: "https://invoker.lol",
+  //   thumbnail:
+  //     "https://aceternity.com/images/products/thumbnails/new/invoker.png",
+  // },
   {
     title: "SphynxMarketplace",
     link: "https://sphynxmarketplace.co/",

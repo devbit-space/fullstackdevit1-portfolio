@@ -2,7 +2,7 @@ import { ShootingStars } from "@/Aceternity/shooting-stars";
 import { StarsBackground } from "@/Aceternity/stars-background";
 import { LetsBuild } from "../components/letsbuild";
 import { Items } from "../components/Items";
-import { blockchain } from "@/data/project";
+// import { blockchain } from "@/data/project";
 const ProjectsPage = () => {
   return (
     <>
@@ -19,9 +19,9 @@ const ProjectsPage = () => {
       </section>
       <section className="relative bg-black py-20">
         <div className="max-w-[80vw] mx-auto relative z-20 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-          {blockchain.map((project) => (
+          {/* {blockchain.map((project) => (
             <Items key={project.title} {...project} />
-          ))}
+          ))} */}
         </div>
         <ShootingStars />
         <StarsBackground />

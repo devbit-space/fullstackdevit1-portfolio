@@ -69,10 +69,10 @@ export const metadata: Metadata = {
   },
   author: "Nikita Dulenko",
   keywords:
-    "software engineer, scalable systems, efficient systems, Nikita Dulenko, Blockchain Developer, Web Developer, AI Developer, Full Stack Developer",
+    "software engineer, scalable systems, efficient systems, Nikita Dulenko, Web Developer, AI Developer, Full Stack Developer",
   twitter: {
     card: "summary_large_image",
-    site: "@ChiKit",
+    site: "@Nikita",
     title: "Nikita Dulenko - Expert Software Engineer",
     description: "Discover the expertise of Nikita Dulenko, a software engineer specializing in scalable and efficient systems.",
     image: "https://chikit.vercel.app//assets/banner.png",

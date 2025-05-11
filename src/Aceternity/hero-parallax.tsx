@@ -123,9 +123,9 @@ export const Header = () => {
           I am dedicated to crafting efficient, user-centric, and future-proof technologies that drive business growth.
         </p>
         <div className="flex justify-center mt-4 relative z-20">
-            <MagicButton icon={<FontAwesomeIcon icon={faEnvelope} size="lg" />} position="left" title="Contact Me" handleClick={() => {
+            {/* <MagicButton icon={<FontAwesomeIcon icon={faEnvelope} size="lg" />} position="left" title="Contact Me" handleClick={() => {
             router.push("/contact");
-          }} />
+          }} /> */}
         </div>
       </div>
     </div>

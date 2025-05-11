@@ -41,16 +41,16 @@ const Footer = () => {
           >
             Testimonials
           </Link>
-          <Link
+          {/* <Link
             href="/contact"
             className="text-white hover:text-blue-500 transition-all duration-300"
           >
             Contact
-          </Link>
+          </Link> */}
         </nav>
       </div>
       <div className="flex justify-center mt-4 space-x-6">
-        <Link href="https://facebook.com" className="text-gray-500 hover:text-white">
+        {/* <Link href="https://facebook.com" className="text-gray-500 hover:text-white">
           <FaFacebook size={24} />
         </Link>
         <Link
@@ -70,7 +70,7 @@ const Footer = () => {
           className="text-gray-500 hover:text-white"
         >
           <FaLinkedin size={24} />
-        </Link>
+        </Link> */}
         <Link
           href="https://github.com/BJ-dev0706"
           className="text-gray-500 hover:text-white"
