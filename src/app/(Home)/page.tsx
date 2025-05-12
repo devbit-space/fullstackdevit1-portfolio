@@ -38,7 +38,7 @@ const Introduction: React.FC = () => {
 
         <Boxes />
         <h1 className={cn("md:text-4xl text-xl text-white relative z-20")}>
-          Nikita Dulenko is Awesome
+          Raul Andres is Awesome
         </h1>
         <div className="text-center mt-2 text-neutral-300 relative z-20">
           <About />

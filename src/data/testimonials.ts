@@ -8,7 +8,7 @@ export const testimonials = [
   },
   {
     quote:
-      "It was truly a great experience working with Nikita Dulenko. Very professional, with clear and transparent communication. I will definitely work with his again.",
+      "It was truly a great experience working with Raul Andres. Very professional, with clear and transparent communication. I will definitely work with his again.",
     name: "Michael Rodriguez",
     title: "",
     src: "/assets/images/client/client-2.png",

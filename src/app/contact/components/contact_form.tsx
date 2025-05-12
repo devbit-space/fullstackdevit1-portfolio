@@ -22,14 +22,14 @@ export const ContactForm = () => {
         body: JSON.stringify({ firstname, lastname, email, message }),
       });
       if (response.ok) {
-        toast.success('Message sent to Nikita Dulenko, Nikita Dulenko will get back to you as soon as possible.');
-        console.log('Message sent to Nikita Dulenko');
+        toast.success('Message sent to Raul Andres, Raul Andres will get back to you as soon as possible.');
+        console.log('Message sent to Raul Andres');
       } else {
-        toast.error('Failed to send message to Nikita Dulenko, please try again.');
-        console.error('Failed to send message to Nikita Dulenko');
+        toast.error('Failed to send message to Raul Andres, please try again.');
+        console.error('Failed to send message to Raul Andres');
       }
     } catch (error) {
-      console.error('Error sending message to Nikita Dulenko:', error);
+      console.error('Error sending message to Raul Andres:', error);
     }
   };
 

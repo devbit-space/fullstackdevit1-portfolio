@@ -47,14 +47,14 @@ interface Metadata {
 }
 
 export const metadata: Metadata = {
-  title: "Nikita Dulenko - Expert Software Engineer",
+  title: "Raul Andres - Expert Software Engineer",
   description:
-    "Discover the expertise of Nikita Dulenko, a software engineer specializing in scalable and efficient systems. Explore innovative solutions and projects.",
+    "Discover the expertise of Raul Andres, a software engineer specializing in scalable and efficient systems. Explore innovative solutions and projects.",
   charset: "UTF-8",
   openGraph: {
-    title: "Nikita Dulenko - Expert Software Engineer",
+    title: "Raul Andres - Expert Software Engineer",
     description:
-      "Discover the expertise of Nikita Dulenko, a software engineer specializing in scalable and efficient systems. Explore innovative solutions and projects.",
+      "Discover the expertise of Raul Andres, a software engineer specializing in scalable and efficient systems. Explore innovative solutions and projects.",
     url: "https://chikit.vercel.app/",
     type: "website",
     images: [
@@ -62,19 +62,19 @@ export const metadata: Metadata = {
         url: "https://chikit.vercel.app//assets/banner.png",
         width: 1200,
         height: 630,
-        alt: "Nikita Dulenko Portfolio Banner",
+        alt: "Raul Andres Portfolio Banner",
       },
     ],
-    siteName: "Nikita Dulenko Portfolio",
+    siteName: "Raul Andres Portfolio",
   },
-  author: "Nikita Dulenko",
+  author: "Raul Andres",
   keywords:
-    "software engineer, scalable systems, efficient systems, Nikita Dulenko, Web Developer, AI Developer, Full Stack Developer",
+    "software engineer, scalable systems, efficient systems, Raul Andres, Web Developer, AI Developer, Full Stack Developer",
   twitter: {
     card: "summary_large_image",
     site: "@Nikita",
-    title: "Nikita Dulenko - Expert Software Engineer",
-    description: "Discover the expertise of Nikita Dulenko, a software engineer specializing in scalable and efficient systems.",
+    title: "Raul Andres - Expert Software Engineer",
+    description: "Discover the expertise of Raul Andres, a software engineer specializing in scalable and efficient systems.",
     image: "https://chikit.vercel.app//assets/banner.png",
   },
 };
