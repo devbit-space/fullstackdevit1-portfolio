@@ -110,24 +110,6 @@ export const skills: Skill[] = [
   //   range: 70,
   // },
   {
-    name: "Artificial Intelligence",
-    icon: "ai",
-    category: "AI/ML",
-    range: 75,
-  },
-  {
-    name: "JavaScript",
-    icon: "javascript",
-    category: "Frontend",
-    range: 90,
-  },
-  {
-    name: "TypeScript",
-    icon: "typescript",
-    category: "Frontend",
-    range: 85,
-  },
-  {
     name: "Node.js",
     icon: "nodejs",
     category: "Backend",
@@ -137,6 +119,18 @@ export const skills: Skill[] = [
     name: "PHP",
     icon: "php",
     category: "Backend",
+    range: 70,
+  },
+  {
+    name: "Wordpress",
+    icon: "wordpress",
+    category: "CMS",
+    range: 70,
+  },
+  {
+    name: "Shopify",
+    icon: "shopify",
+    category: "Shopify",
     range: 70,
   },
   {
@@ -157,12 +151,29 @@ export const skills: Skill[] = [
     category: "Mobile Development",
     range: 70,
   },
-  
   {
     name: "Expo",
     icon: "expo",
     category: "Mobile Development",
     range: 70,
+  },
+  {
+    name: "AI",
+    icon: "ai",
+    category: "AI/ML",
+    range: 75,
+  },
+  {
+    name: "JavaScript",
+    icon: "javascript",
+    category: "Frontend",
+    range: 90,
+  },
+  {
+    name: "TypeScript",
+    icon: "typescript",
+    category: "Frontend",
+    range: 85,
   },
   {
     name: "HTML",
@@ -180,18 +191,6 @@ export const skills: Skill[] = [
     name: "GraphQL",
     icon: "graphql",
     category: "Backend",
-    range: 70,
-  },
-  {
-    name: "Wordpress",
-    icon: "wordpress",
-    category: "CMS",
-    range: 70,
-  },
-  {
-    name: "Shopify",
-    icon: "shopify",
-    category: "Shopify",
     range: 70,
   },
   {

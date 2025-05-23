@@ -19,7 +19,7 @@ export const CallToAction = () => {
         <p className="text-white text-sm md:text-2xl max-w-xl mt-6 text-center">
           Lets collaborate and create something extraordinary.
         </p>
-        <div className="flex flex-col sm:flex-row items-center gap-4 mt-6">
+        {/* <div className="flex flex-col sm:flex-row items-center gap-4 mt-6">
           <MagicButton
             title="Contact Me"
             icon={<FaEnvelope />}
@@ -27,7 +27,7 @@ export const CallToAction = () => {
               router.push("/contact");
             }}
           />
-        </div>
+        </div> */}
       </Vortex>
     </div>
   );

@@ -118,7 +118,7 @@ export const Header = () => {
         <p className="max-w-4xl text-base md:text-xl mt-4 text-neutral-200 relative z-20 indent-5">
           I am a seasoned Software Engineer specializing in the development of robust and scalable digital solutions.
           <br />
-          My expertise spans Web and Mobile Applications, WebGL, and AI-driven innovations.
+          My expertise spans Full Stack development, Web and Mobile Applications, and AI-driven innovations.
           <br />
           I am dedicated to crafting efficient, user-centric, and future-proof technologies that drive business growth.
         </p>

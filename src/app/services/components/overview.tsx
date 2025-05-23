@@ -8,13 +8,6 @@ export function ServicesOverview() {
   );
 }
 export const projects = [
-  // {
-  //   title: "Blockchain Development",
-  //   description:
-  //     "Smart contracts, decentralized apps (dApps), and blockchain integration.",
-  //   link: "https://stripe.com",
-  //   image: "/assets/images/services/blockchain.png",
-  // },
   {
     title: "Full-Stack Development",
     description:
@@ -35,5 +28,12 @@ export const projects = [
       "Machine learning models, AI-powered applications, and data-driven insights.",
     link: "https://meta.com",
     image: "/assets/images/services/ai.png",
+  },
+  {
+    title: "Bot & Automation",
+    description:
+      "Make.com, n8n, Zapier workflow automation, and built Bot for Scrape and business.",
+    link: "https://stripe.com",
+    image: "/assets/images/services/blockchain.png",
   },
 ];

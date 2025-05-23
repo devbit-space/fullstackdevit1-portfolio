@@ -160,7 +160,7 @@ const Header = () => {
               </span>
             </span>
           </Link>
-          <Link
+          {/* <Link
             href="/testimonials"
             className="flex items-center relative cursor-pointer text-center overflow-hidden text-white group"
           >
@@ -173,7 +173,7 @@ const Header = () => {
                 Testimonials
               </span>
             </span>
-          </Link>
+          </Link> */}
           {/* <Link
             href="/contact"
             className="flex items-center relative cursor-pointer text-center overflow-hidden text-white group"

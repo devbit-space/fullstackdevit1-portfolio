@@ -17,7 +17,7 @@ import {
 export const Hero = () => {
   return (
     <div className=" py-40 w-full">
-      <div className="max-w-7xl mx-auto text-center pb-10 relative z-20">
+      {/* <div className="max-w-7xl mx-auto text-center pb-10 relative z-20">
         <p className="bg-clip-text text-transparent text-center bg-gradient-to-b from-white to-neutral-700 text-xl md:text-3xl lg:text-5xl font-sans py-2 md:py-10 relative z-20 font-bold tracking-tight">
           Let&rsquo;s Build Something Amazing{" "}
           <span className="!text-White">
@@ -35,8 +35,8 @@ export const Hero = () => {
           </span>
         </p>
         <p className="text-base md:text-lg text-neutral-500 max-w-2xl mx-auto py-4 relative z-20">
-          Whether it&rsquo;s a blockchain project, a full-stack application, a
-          mobile app, or an AI solution, I&rsquo;m here to help
+          Whether it&rsquo;s a full-stack application, a
+          mobile app, bot-automation or an AI solution, I&rsquo;m here to help
         </p>
         <div className="flex justify-center mt-4 space-x-6">
           <Link
@@ -103,7 +103,7 @@ export const Hero = () => {
             <FaLinkedin size={24} />
           </Link>
         </div>
-      </div>
+      </div> */}
       <div className="w-full h-full flex items-center justify-center">
         <div className="md:w-1/2">
           <WorldMap

@@ -47,35 +47,35 @@ interface Metadata {
 }
 
 export const metadata: Metadata = {
-  title: "Raul Andres - Expert Software Engineer",
+  title: "Expert Software Engineer",
   description:
-    "Discover the expertise of Raul Andres, a software engineer specializing in scalable and efficient systems. Explore innovative solutions and projects.",
+    "Discover the expertise of devbit, a software engineer specializing in scalable and efficient systems. Explore innovative solutions and projects.",
   charset: "UTF-8",
   openGraph: {
-    title: "Raul Andres - Expert Software Engineer",
+    title: "devbit - Expert Software Engineer",
     description:
-      "Discover the expertise of Raul Andres, a software engineer specializing in scalable and efficient systems. Explore innovative solutions and projects.",
-    url: "https://chikit.vercel.app/",
+      "Discover the expertise of devbit, a software engineer specializing in scalable and efficient systems. Explore innovative solutions and projects.",
+    url: "https://full-stack-devbit.vercel.app/",
     type: "website",
     images: [
       {
-        url: "https://chikit.vercel.app//assets/banner.png",
+        url: "https://full-stack-devbit.vercel.app/assets/banner.png",
         width: 1200,
         height: 630,
-        alt: "Raul Andres Portfolio Banner",
+        alt: "Devbit Portfolio Banner",
       },
     ],
-    siteName: "Raul Andres Portfolio",
+    siteName: "Devbit Portfolio",
   },
-  author: "Raul Andres",
+  author: "devbit",
   keywords:
-    "software engineer, scalable systems, efficient systems, Raul Andres, Web Developer, AI Developer, Full Stack Developer",
+    "software engineer, scalable systems, efficient systems, devbit, Web Developer, AI Developer, Full Stack Developer",
   twitter: {
     card: "summary_large_image",
-    site: "@Nikita",
-    title: "Raul Andres - Expert Software Engineer",
-    description: "Discover the expertise of Raul Andres, a software engineer specializing in scalable and efficient systems.",
-    image: "https://chikit.vercel.app//assets/banner.png",
+    site: "@Raul",
+    title: "devbit - Expert Software Engineer",
+    description: "Discover the expertise of devbit, a software engineer specializing in scalable and efficient systems.",
+    image: "https://full-stack-devbit.vercel.app/assets/banner.png",
   },
 };
 

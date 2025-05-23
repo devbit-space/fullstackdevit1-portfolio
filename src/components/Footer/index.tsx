@@ -8,7 +8,7 @@ const Footer = () => {
     <footer className="bg-black text-white pt-5 pb-10 border-t border-gray-700">
       <div className="w-full mx-auto max-w-screen-xl p-4 flex flex-col md:flex-row md:items-center md:justify-between">
         <div className="text-sm text-gray-500 text-center mb-4 md:mb-0 max-sm:w-full">
-          © 2025{" "} copyright by <span className="font-bold">Top Dev</span>
+          © 2025{" "} copyright by <span className="font-bold">devbit</span>
         </div>
         <nav className="flex flex-wrap gap-4 items-center justify-center text-sm font-medium text-gray-500">
           <Link
@@ -35,12 +35,12 @@ const Footer = () => {
           >
             Skills
           </Link>
-          <Link
+          {/* <Link
             href="/testimonials"
             className="text-white hover:text-blue-500 transition-all duration-300"
           >
             Testimonials
-          </Link>
+          </Link> */}
           {/* <Link
             href="/contact"
             className="text-white hover:text-blue-500 transition-all duration-300"
@@ -77,13 +77,12 @@ const Footer = () => {
         >
           <FaGithub size={24} />
         </Link>
-        <Link
-          // href="https://t.me/@digitalwizard0"
-          href=""
+        {/* <Link
+          href="https://t.me/@digitalwizard0"
           className="text-gray-500 hover:text-white"
         >
           <FaTelegram size={24} />
-        </Link>
+        </Link> */}
       </div>
     </footer>
   );

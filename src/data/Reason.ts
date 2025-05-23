@@ -2,10 +2,10 @@ export const Reasons = [
   {
     title: "Expertise in Advanced Technologies",
     description: [
-      "Blockchain: Expertise in smart contracts, dApps, and blockchain integration for secure systems.",
       "Full-Stack Development: Skilled in front-end and back-end technologies for seamless solutions.",
       "Mobile App Development: Experienced in creating high-performance iOS and Android apps.",
       "AI Solutions: Proficient in machine learning models and AI applications for data-driven insights.",
+      "Bot & Automation: Skilled in creating smart bots and automated workflows to save time, reduce manual work, and improve efficiency.",
     ],
   },
   {
